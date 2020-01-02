@@ -56,7 +56,7 @@
               Api dökümasyon sayfası - https://dev.iyzipay.com/tr
           </li>
           <li>
-              Test bilgilerinizi oluşturmanız gereken sayfası - https://sandbox-merchant.iyzipay.com/
+              Test bilgilerinizi oluşturmanız gereken sayfa - https://sandbox-merchant.iyzipay.com/
           </li>
           <li>
               Test ödemeler için kullanmanız gereken test kartları sayfası- https://dev.iyzipay.com/tr/test-kartlari
